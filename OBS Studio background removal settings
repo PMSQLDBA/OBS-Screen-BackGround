@@ -93,3 +93,10 @@ Inside the Background Removal filter, configure:
 * Option to blur or replace background.
 * Professional scene transitions depending on your purpose.
 ================================================
+
+How to Use:
+1) Install the OBS Background Removal Plugin (if not already installed).
+2) In OBS → Go to Profile → Scene Collection → Import.
+3) Select the JSON file you downloaded.
+4) Replace "Your Webcam Device Name" in the Webcam source settings with your actual webcam inside OBS.
+5) Add your own background image/video if you want something different than the included placeholders.
